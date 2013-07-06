@@ -1,0 +1,17 @@
+
+3D textures are often described by parametric functions for each pixel, that
+models the variation in its appearance with respect to varying lighting
+direction. However, parametric models such as Polynomial Texture Maps (PTMs)
+tend to smoothen the changes in appearance. We propose a technique to
+effectively model natural material surfaces and their interactions with changing
+light conditions. We show that the direct and global components of the image
+have different nature, and when modeled separately, leads to a more accurate and
+compact model of the 3D surface texture. Direct component is mainly affected by
+structural properties of the surface and is therefore deals with phenomena like
+shadows and specularity, which are sharply varying functions. The global
+component is used to model overall luminance and color values, a smoothly
+varying function. For a given lighting position, both components are computed
+separately and combined to render a new image. This method models sharp shadows
+and specularities, while preserving the structural relief and surface color.
+Thus rendered image have enhanced photorealism as compared to images rendered by
+existing single pixel models such as PTMs.

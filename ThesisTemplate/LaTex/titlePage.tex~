@@ -1,0 +1,30 @@
+\thispagestyle{empty}
+\begin{center}
+\vspace*{1.5cm}
+{\Large \bf Improving Realism of 3D Texture using Component Based Modeling}
+
+\vspace*{3.75cm}
+{\large Thesis submitted in partial fulfillment\\}
+{\large  of the requirements for the degree of \\}
+
+\vspace*{1cm}
+{\it {\large MS by Research} \\
+{\large in\\}
+{\large Computer Science\\}}
+
+\vspace*{1cm}
+{\large by}
+
+\vspace*{5mm}
+{\large Siddharth Kherada\\}
+{\large 200702048\\
+{\small \tt siddharth.kherada@research.iiit.ac.in}}
+
+
+\vspace*{4.0cm}
+{\psfig{figure=figures/iiit.eps,width=14mm}\\}
+{\large Centre for Visual Information Technology\\}
+{\large International Institute of Information Technology\\}
+{\large Hyderabad - 500 032, INDIA\\}
+{\large July 2013\\}
+\end{center}

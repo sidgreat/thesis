@@ -1,0 +1,29 @@
+The technique that we propose preserves sharpness of shadows and also models
+specular reflection. This causes image to appear more photorealistic and single
+point source effect is more prominent. This technique results in enhanced
+photorealism which preserves sharp shadows and specular properties from
+smoothening out. The separate model for luminance estimation provides us with
+color values which are in close agreement with the color values of the original
+image. Results obtained on re-rendering the input images show a great
+improvement over original PTM technique.
+
+% The principle advantage of image-based rendering techniques is that photorealism can be achieved without
+% accurate modeling of complex real-world physical interactions. You can capture and reproduce interesting
+% lighting effects directly from how they appear in reality. Since they are captured in photographs, complex
+% interactions like self-shadowing, interreflections, and sub-surface scattering can be reproduced automatically. A
+% related advantage is that the rendering cost is independent of the complexity of the scene and the surface 
+% properties of objects in the scene. The complexity of image-based methods usually depends on the number of 
+% images or on the representation rather than the complexity of the scene. Ease of acquisition is another advantage
+% of image-based rendering. Rather than requiring complex modeling or measurements, simple photographs are all 
+% that is required.
+% 
+% One common disadvantage of image-based rendering methods is the amount of data storage required. As a result 
+% of using a database of images as the representation rather than compact mathematical models storage sizes can be
+% very large. Some techniques, such as the PTM method just described, avoid some of the data storage by 
+% approximating the images with a simple but powerful model. Another common limitation of image-based 
+% methods arises out of sampling issues. It can be difficult to capture high-frequency effects accurately without 
+% extremely dense (and time consuming) sampling. Editing can also be problematic for these methods, depending 
+% on the representation.
+% Despite these limitations image-based rendering and relighting can be very useful for games because of their 
+% significant advantages. The recent great leaps in capabilities of graphics hardware have made many more image 
+% based techniques useful for a wide range of games and other applications.

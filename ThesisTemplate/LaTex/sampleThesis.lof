@@ -1,0 +1,125 @@
+\addvspace {1em}
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Variation in appearance of the same surface patch, when illuminated from different lighting directions.}}{2}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{2}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{2}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {}}}{2}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Component Based Modeling (CBM)}}{3}
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Experimental setup}}{4}
+\addvspace {1em}
+\addvspace {1em}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces The luminance of scene point is due to direct illumination of the point by the source (A) and global illumination due to other points in the scene which is mainly due to inter-reflections (B), subsurface scattering (C), volumetric scattering (D) and translucency (E) }}{9}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces The steps involved in the computation of direct and global images using a set of shifted checkerboard illumination patterns}}{10}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$l_u=.61$,$l_v=.35$}}}{10}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Shadow interpolation in two directions: a,c) images with horizontally varying lighting directions, b) interpolated direct image between the two; d,f) images with vertically varying lighting directions, e) interpolated direct image between the two.}}{11}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$l_u=.61$,$l_v=.35$}}}{11}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Interpolated}}}{11}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {$l_u=-.61$,$l_v=-.35$}}}{11}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {$l_u=.86$,$l_v=0$}}}{11}
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {Interpolated}}}{11}
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {$l_u=.58$,$l_v=0$}}}{11}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces shadow modeling by interpolation}}{12}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Components of a cloth image for a specific lighting direction: a) original image, b) direct component, c) global component.}}{12}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{12}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{12}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{12}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Shadow interpolation in two directions: a,c) images with horizontally varying lighting directions, b) interpolated direct image between the two; d,f) images with vertically varying lighting directions, e) interpolated direct image between the two.}}{13}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$l_u=.61$,$l_v=.35$}}}{13}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Interpolated}}}{13}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {$l_u=-.61$,$l_v=-.35$}}}{13}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {$l_u=.86$,$l_v=0$}}}{13}
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {Interpolated}}}{13}
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {$l_u=.58$,$l_v=0$}}}{13}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces a) Direct component of an image computed using bilinear interpolation, b) after multiplying (a) by the shadow mask, and c) after adding specularity.}}{14}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{14}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{14}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{14}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces a) Binarized image of cloth shadow, b) binary image as rendered by classification technique, c) binary image obtained using interpolation, d) distance image of pixels from classifier boundary. Blue pixels are closest to the hyperplane and include pixels at the edge of a shadow or pixels present in the region of diffused shadow. Black color pixels are the farthest from the hyperplane and represent region of strong and dense shadow.}}{15}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{15}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{15}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{15}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {}}}{15}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Optional caption for list of figures}}{17}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{17}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{17}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{17}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {}}}{17}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Comparison of luminance at a pixel as modeled by different functions: a) original function plot at that pixel b)By Gaussian c)By Biquadratic d)By Parabola.}}{18}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{18}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{18}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{18}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {}}}{18}
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Error comparison between CBM and PTM over different surface textures. Red bars indicate outliers. The red line in the box is the mean and the blue lines are the 25th and 75th percentile.}}{20}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{20}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{20}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Original Sand Texture}}}{21}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Modelled using CBM}}}{21}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Modelled using PTM}}}{21}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Original Sponge Texture}}}{21}
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {Modelled using CBM}}}{21}
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {Modelled using PTM}}}{21}
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Comparison of rendering results from Component Based Modeling and PTM techniques. CBM images have sharp shadows and specularity and also preserve the appearance of surface relief.}}{22}
+\contentsline {subfigure}{\numberline {(g)}{\ignorespaces {Brown Granite}}}{22}
+\contentsline {subfigure}{\numberline {(h)}{\ignorespaces {Modelled using CBM}}}{22}
+\contentsline {subfigure}{\numberline {(i)}{\ignorespaces {Modelled using PTM}}}{22}
+\contentsline {subfigure}{\numberline {(j)}{\ignorespaces {Original Cloth Texture}}}{22}
+\contentsline {subfigure}{\numberline {(k)}{\ignorespaces {Modeled using CBM}}}{22}
+\contentsline {subfigure}{\numberline {(l)}{\ignorespaces {Modeled using PTM}}}{22}
+\contentsline {subfigure}{\numberline {(m)}{\ignorespaces {Zoomed part of White Granite}}}{22}
+\contentsline {subfigure}{\numberline {(n)}{\ignorespaces {Modelled using CBM}}}{22}
+\contentsline {subfigure}{\numberline {(o)}{\ignorespaces {Modelled using PTM}}}{22}
+\contentsline {figure}{\numberline {3.13}{\ignorespaces Multiple simultaneous Light Sources effect. For (a) and (c) light sources are placed at top(10$^{\circ }$) and bottom(180$^{\circ }$) side of the texture. For (c) and (d) they are placed at top(10 $^{\circ }$) and top left side(45$^{\circ }$). }}{22}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {CBM based image }}}{22}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {PTM based Image }}}{22}
+\addvspace {1em}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Text image where both background and foreground are of same color}}{24}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces (a) Sponge Texture (b),(c) Independent components}}{24}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{24}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{24}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{24}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces (a) Image containing text (b),(c) Independent components}}{25}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{25}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{25}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{25}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Binarized text}}{26}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Original text }}}{26}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Kittler}}}{26}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Otsu}}}{26}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Niblack}}}{26}
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {Sauvola}}}{26}
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {ICA + CBM}}}{26}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Some sample word images we considered in this work containing (a) reflective (b) shadowed and (c) specular background}}{27}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{27}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{27}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{27}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Foreground and Background Extracted: (a) Shadowed background and foreground text (b) Reflective background and foreground text (c) Specular background and foreground text }}{28}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{28}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{28}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{28}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Framework for the proposed method}}{28}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces (a) Original word image (b),(e),(h) R, G and B channel respectively (c),(f),(i) Independent Components, (d),(g),(j) Binarized image}}{29}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Input}}}{29}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Red}}}{29}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {$IC_1$}}}{29}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Binarized $IC_1$}}}{29}
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {Green}}}{29}
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {$IC_2$}}}{29}
+\contentsline {subfigure}{\numberline {(g)}{\ignorespaces {Binarized $IC_2$}}}{29}
+\contentsline {subfigure}{\numberline {(h)}{\ignorespaces {Blue}}}{29}
+\contentsline {subfigure}{\numberline {(i)}{\ignorespaces {$IC_3$}}}{29}
+\contentsline {subfigure}{\numberline {(j)}{\ignorespaces {Binarized $IC_3$}}}{29}
+\contentsline {figure}{\numberline {4.9}{\ignorespaces (a) Text containing specular highlight (b) IC (c) Otsu (d) Niblack}}{30}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{30}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{30}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{30}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {}}}{30}
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Comparison of Binarization algorithms and the proposed method (From left to right Original, MRF, Kittler, Otsu, Niblack, Sauvola, Proposed) Text containing reflective background }}{31}
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Comparison of Binarization algorithms and the proposed method (From left to right Original, MRF, Kittler, Otsu, Niblack, Sauvola, Proposed) Text containing shadowed background }}{32}
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Comparison of Binarization algorithms and the proposed method (From left to right Original, MRF, Kittler, Otsu, Niblack, Sauvola, Proposed) Text containing specular background}}{33}
+\contentsline {figure}{\numberline {4.13}{\ignorespaces (a) Image containing Text over another Text (b) Foreground Text (c) Background Text (d) Text extracted}}{34}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {}}}{34}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {}}}{34}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {}}}{34}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {}}}{34}
+\contentsline {figure}{\numberline {4.14}{\ignorespaces Failure case where both the foreground and background are of same color}}{34}
+\addvspace {1em}

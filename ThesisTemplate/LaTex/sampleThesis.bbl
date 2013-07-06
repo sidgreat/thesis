@@ -1,0 +1,123 @@
+\begin{thebibliography}{10}\setlength{\itemsep}{-1ex}\small
+
+\bibitem{A15}
+Robust word recognition dataset.
+\newblock {\em http://algoval.essex.ac.uk/icdar/RobustWord.html}.
+
+\bibitem{C5}
+M.~Ashikhmin and P.~Shirley.
+\newblock Steerable illumination textures.
+\newblock {\em ACM Transactions on Graphics}, 21:1--19, 2002.
+
+\bibitem{C8}
+A.~Baumberg.
+\newblock Blending images for texturing 3d models.
+\newblock {\em In proc. Conf. on British Machine Vision Association}, pages
+  404--413, 2002.
+
+\bibitem{A8}
+J.~Bernsen.
+\newblock Dynamic thresholding of gray level images.
+\newblock {\em International Conference on Pattern Recognition}, pages
+  1251--1255, 1986.
+
+\bibitem{C2}
+K.~Dana, B.~V. Ginneken, S.~Nayar, and J.~Koenderink.
+\newblock Reflectance and texture of real-world surfaces.
+\newblock {\em ACM Transactions on Graphics}, 18(1):1--34, 1999.
+
+\bibitem{C14}
+G.~Earl, K.~Martinez, and T.~Malzbender.
+\newblock Archaeological applications of polynomial texture mapping: Analysis,
+  conservation and representation.
+\newblock {\em Journal of Archaeological Science}, pages 2040--2050, 2010.
+
+\bibitem{A1}
+R.~M. Haralick and L.~G. Shapiro.
+\newblock Image segmentation techniques.
+\newblock {\em Computer Vision, Graphics and Image Processing}, 29:100--132,
+  1985.
+
+\bibitem{A11}
+A.~Hyvarinen, J.~Karhunen, and E.~Oja.
+\newblock Independent component analysis.
+\newblock {\em John Wiley and Sons, New York,}, 2001.
+
+\bibitem{A12}
+A.~Hyvarinen and E.~Oja.
+\newblock Independent component analysis: Algorithms and applications.
+\newblock {\em Neural Networks}, 13:411--430, 2001.
+
+\bibitem{A5}
+J.~Kittler, J.~Illingworth, and J.~Foglein.
+\newblock Threshold selection based on a simple image statistic.
+\newblock {\em Computer Vision, Graphics, and Image Processing}, 30:125--147,
+  1985.
+
+\bibitem{C1}
+T.~Leung and J.~Malik.
+\newblock Representing and recognizing the visual appearance of materials using
+  three-dimensional textons.
+\newblock {\em International Journal On Computer Vision}, 43(1):29--44, 2001.
+
+\bibitem{C3}
+L.~MacDonald and S.~Robson.
+\newblock Polynomial texture mapping and 3d representations.
+\newblock {\em International Archives of Photogrammetry, Remote Sensing and
+  Spatial Information Sciences}, 38, 2010.
+
+\bibitem{C4}
+T.~Malzbender, D.~Gelb, and H.~Wolters.
+\newblock Polynomial texture maps.
+\newblock {\em In Computer Graphics, SIGGRAPH Proceedings}, pages 519--528,
+  2001.
+
+\bibitem{A9}
+W.~Niblack.
+\newblock An introduction to digital image processing.
+\newblock {\em New York: Prentice Hall}, 1986.
+
+\bibitem{A2}
+N.~Otsu.
+\newblock A threshold selection method from gray-level histograms.
+\newblock {\em IEEE Systems, Man, and Cybernetics Society}, 9:62--66, 1979.
+
+\bibitem{C13}
+J.~Padfield, D.~Saunders, and T.~Malzbender.
+\newblock Polynomial texture mapping: A new tool for examining the surface of
+  paintings.
+\newblock {\em ICOM Committee for Conservation}, 1:504--510, 2005.
+
+\bibitem{A4}
+N.~R. Pal and S.~K. Pal.
+\newblock A review on image segmentation techniques.
+\newblock {\em Pattern Recognition}, 26:1227--1249, 1993.
+
+\bibitem{C6}
+C.~Rocchini, P.~Cignoni, C.~Montani, and R.~Scopigno.
+\newblock Multiple textures stitching and blending on 3d objects.
+\newblock {\em In Eurographics Rendering Workshop}, pages 119--130, 1999.
+
+\bibitem{A7}
+P.~Sahoo and G.~Arora.
+\newblock A thresholding method based on two-dimensional renyi’s entropy.
+\newblock {\em Pattern Recognition}, 37:1149--1161, 2004.
+
+\bibitem{A3}
+P.~K. Sahoo, S.~Soltani, A.~K.~C. Wong, and Y.~C. Chen.
+\newblock A survey of thresholding techniques.
+\newblock {\em Computer Vision, Graphics and Image Processing}, 41:233--260,
+  1988.
+
+\bibitem{A6}
+J.~J. Sauvola and M.~Pietikainen.
+\newblock Adaptive document image binarization.
+\newblock {\em Pattern Recognition}, 33:225--236, 2000.
+
+\bibitem{C7}
+M.~Soucy, G.~Godin, R.~Baribeau, F.~Blais, and M.~Rioux.
+\newblock Sensons and algorithms for the construction of digital 3d colour
+  models of real objects.
+\newblock {\em Image Processing Proceedings}, pages 409--412, 1996.
+
+\end{thebibliography}

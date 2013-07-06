@@ -1,0 +1,1360 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2013.1.2)  6 JUL 2013 14:56
+entering extended mode
+ %&-line parsing enabled.
+**sampleThesis
+(./sampleThesis.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, farsi, arabic, croatian, bulgarian, ukrainian, russian, czech, slov
+ak, danish, dutch, finnish, french, basque, ngerman, german, german-x-2009-06-1
+9, ngerman-x-2009-06-19, ibycus, monogreek, greek, ancientgreek, hungarian, san
+skrit, italian, latin, latvian, lithuanian, mongolian2a, mongolian, bokmal, nyn
+orsk, romanian, irish, coptic, serbian, turkish, welsh, esperanto, uppersorbian
+, estonian, indonesian, interlingua, icelandic, kurmanji, slovenian, polish, po
+rtuguese, spanish, galician, catalan, swedish, ukenglish, pinyin, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/book.cls
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/bk11.clo
+File: bk11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (./iiit_thesis.sty
+*******************************************************************
+** UIUC Thesis Style File, version 1.1, Nov 1995 by Fred Geiger 
+** Based On UTTHESIS.STY, Written by Dinesh Das 
+** Dept. of Computer Sciences, The University of Texas at Austin 
+*******************************************************************
+(/usr/share/texmf-texlive/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\hour=\count88
+\minute=\count89
+\wwwy=\count90
+\wwwm=\count91
+\wwwd=\count92
+\wwwc=\count93
+\wwwt=\count94
+\wwws=\count95
+)
+(/usr/share/texmf-texlive/tex/latex/psnfss/times.sty
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/epsfig.sty
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: dvips.def on input line 91.
+
+(/usr/share/texmf-texlive/tex/latex/graphics/dvips.def
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+\epsfxsize=\dimen105
+\epsfysize=\dimen106
+)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-texlive/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks15
+\ex@=\dimen107
+))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen108
+)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count96
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count97
+\leftroot@=\count98
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count99
+\DOTSCASE@=\count100
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen109
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count101
+\c@MaxMatrixCols=\count102
+\dotsspace@=\muskip10
+\c@parentequation=\count103
+\dspbrk@lvl=\count104
+\tag@help=\toks16
+\row@=\count105
+\column@=\count106
+\maxfields@=\count107
+\andhelp@=\toks17
+\eqnshift@=\dimen110
+\alignsep@=\dimen111
+\tagshift@=\dimen112
+\tagwidth@=\dimen113
+\totwidth@=\dimen114
+\lineht@=\dimen115
+\@envbody=\toks18
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
+(/usr/share/texmf-texlive/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
+)
+(/usr/share/texmf-texlive/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen116
+)
+(/usr/share/texmf-texlive/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip46
+\subfigcapskip=\skip47
+\subfigcaptopadj=\dimen117
+\subfigbottomskip=\skip48
+\subfigcapmargin=\dimen118
+\subfiglabelskip=\skip49
+\c@subfigure=\count108
+\c@lofdepth=\count109
+\c@subtable=\count110
+\c@lotdepth=\count111
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/share/texmf-texlive/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip50
+\subfig@bottom=\skip51
+)
+(/usr/share/texmf-texlive/tex/latex/algorithms/algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+(/usr/share/texmf-texlive/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count112
+\float@exts=\toks20
+\float@box=\box28
+\@float@everytoks=\toks21
+\@floatcapt=\box29
+)
+\@float@every@algorithm=\toks22
+\c@algorithm=\count113
+)
+(/usr/share/texmf-texlive/tex/latex/algorithms/algorithmic.sty
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+\c@ALC@unique=\count114
+\c@ALC@line=\count115
+\c@ALC@rem=\count116
+\c@ALC@depth=\count117
+\ALC@tlm=\skip52
+\algorithmicindent=\skip53
+)
+(./sampleThesis.aux
+
+LaTeX Warning: Label `fig:subfig3' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig3' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig1' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig1' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig2' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig3' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig3' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig1' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig2' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig3' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig3' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig1' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig1' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig2' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig3' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig3' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig1' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig2' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig3' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig3' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig1' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig2' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig3' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig3' multiply defined.
+
+
+LaTeX Warning: Label `fig:intExample' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig1' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig2' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig3' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig3' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfigureExample' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig1' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig2' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig3' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig3' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfigureExample' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig1' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig2' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig3' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig3' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig4' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig4' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig1' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig2' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig3' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig3' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig4' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig4' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfigureExample' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig1' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig2' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig1' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig2' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig3' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig3' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig1' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig2' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig3' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig3' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig1' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig2' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig3' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig3' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig1' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig2' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig3' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig3' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig1' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig2' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig3' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig3' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig3' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig3' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig2' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig11' multiply defined.
+
+
+LaTeX Warning: Label `fig:11' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig11' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig11' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig11' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig11' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig11' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig11' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig12' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig12' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig12' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig12' multiply defined.
+
+
+LaTeX Warning: Label `fig:2' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig11' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig11' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig11' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig11' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig12' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig12' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig11' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig11' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig13' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig13' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig13' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig13' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig12' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig12' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig13' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig13' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig13' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig13' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig14' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig14' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig12' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig12' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig11' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig11' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig11' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig11' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig11' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig11' multiply defined.
+
+
+LaTeX Warning: Label `fig:6' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig11' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig11' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig11' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig11' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig11' multiply defined.
+
+
+LaTeX Warning: Label `fig:6' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig11' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig11' multiply defined.
+
+
+LaTeX Warning: Label `fig:subfig11' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:subfig11' multiply defined.
+
+)
+\openout1 = `sampleThesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 28.
+ (/usr/share/texmf-texlive/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+) (./titlePage.tex
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 4.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 21.
+
+(/usr/share/texmf-texlive/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+File: figures/iiit.eps Graphic file (type eps)
+ <figures/iiit.eps>)
+[1
+
+
+]
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 38.
+ (/usr/share/texmf-texlive/tex/latex/psnfss/omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 38.
+ [2]
+(./certificate.tex
+LaTeX Font Info:    Try loading font information for U+msa on input line 16.
+ (/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 16.
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+lasy on input line 16.
+
+(/usr/share/texmf-texlive/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)) [3] [4]
+(./acknowledgements.tex) [5
+
+] (./abstract.tex) [6
+
+] (./sampleThesis.toc)
+\tf@toc=\write3
+\openout3 = `sampleThesis.toc'.
+
+ [7
+
+]
+[8] (./sampleThesis.lof [9
+
+])
+\tf@lof=\write4
+\openout4 = `sampleThesis.lof'.
+
+ [10] (./sampleThesis.lot)
+\tf@lot=\write5
+\openout5 = `sampleThesis.lot'.
+
+ [11
+
+]
+{\it Chapter} 1.
+(./introduction.tex
+File: image_eps/orig_some/0.eps Graphic file (type eps)
+ <image_eps/orig_some/0.eps>
+File: image_eps/orig_some/9.eps Graphic file (type eps)
+ <image_eps/orig_some/9.eps>
+File: image_eps/orig_some/10.eps Graphic file (type eps)
+
+<image_eps/orig_some/10.eps>
+File: image_eps/orig_some/26.eps Graphic file (type eps)
+ <image_eps/orig_some/26.eps>
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 50.
+ [1
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2]
+File: sep_images/sep3.eps Graphic file (type eps)
+
+<sep_images/sep3.eps>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3]
+File: chap3/res_2/setup.eps Graphic file (type eps)
+
+<chap3/res_2/setup.eps>
+Underfull \vbox (badness 4366) has occurred while \output is active []
+
+ [4])
+[5]
+{\it Chapter} 2.
+(./chapter2.tex [6
+
+]) [7]
+{\it Chapter} 3.
+(./chapter3.tex
+
+LaTeX Warning: Citation `B4' on page 8 undefined on input line 14.
+
+File: sep_images/sep2.eps Graphic file (type eps)
+<sep_images/sep2.eps>
+File: sep_images/sep1.eps Graphic file (type eps)
+ <sep_images/sep1.eps>
+File: images/r1.eps Graphic file (type eps)
+ <images/r1.eps>
+File: images/r2.eps Graphic file (type eps)
+ <images/r2.eps>
+File: images/r3.eps Graphic file (type eps)
+
+<images/r3.eps>
+File: images/r4.eps Graphic file (type eps)
+ <images/r4.eps>
+File: images/r5.eps Graphic file (type eps)
+ <images/r5.eps>
+File: images/r6.eps Graphic file (type eps)
+ <images/r6.eps> [8
+
+]
+File: chap3/res_2/inter.eps Graphic file (type eps)
+
+<chap3/res_2/inter.eps>
+File: image_eps/direct+global/cloth/orig_30.eps Graphic file (type eps)
+ <image_eps/direct+global/cloth/orig_30.eps>
+File: image_eps/direct+global/cloth/direct_30.eps Graphic file (type eps)
+
+<image_eps/direct+global/cloth/direct_30.eps>
+File: image_eps/direct+global/cloth/global_30.eps Graphic file (type eps)
+
+<image_eps/direct+global/cloth/global_30.eps>
+
+LaTeX Warning: Citation `B9' on page 9 undefined on input line 203.
+
+File: image_eps/interpolated/phi=45.eps Graphic file (type eps)
+<image_eps/interpolated/phi=45.eps>
+File: image_eps/interpolated/direct_90_interpol.eps Graphic file (type eps)
+
+<image_eps/interpolated/direct_90_interpol.eps>
+File: image_eps/interpolated/phi=135.eps Graphic file (type eps)
+
+<image_eps/interpolated/phi=135.eps>
+File: image_eps/interpolated/theta=30.eps Graphic file (type eps)
+ <image_eps/interpolated/theta=30.eps>
+File: image_eps/interpolated/theta=42.eps Graphic file (type eps)
+
+<image_eps/interpolated/theta=42.eps>
+File: image_eps/interpolated/theta=54.eps Graphic file (type eps)
+ <image_eps/interpolated/theta=54.eps>
+[9]
+
+LaTeX Warning: Citation `B7' on page 10 undefined on input line 243.
+
+
+LaTeX Warning: Citation `B10' on page 10 undefined on input line 243.
+
+
+LaTeX Warning: Citation `B11' on page 10 undefined on input line 243.
+
+
+LaTeX Warning: Citation `B17' on page 10 undefined on input line 243.
+
+
+LaTeX Warning: Citation `B16' on page 10 undefined on input line 247.
+
+File: image_eps/shadow_classify/linear.eps Graphic file (type eps)
+<image_eps/shadow_classify/linear.eps>
+File: image_eps/shadow_classify/shadow.eps Graphic file (type eps)
+ <image_eps/shadow_classify/shadow.eps>
+File: image_eps/shadow_classify/thresh=110.eps Graphic file (type eps)
+
+<image_eps/shadow_classify/thresh=110.eps>
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 273.
+ [10] [11]
+Underfull \vbox (badness 1552) has occurred while \output is active []
+
+ [12]
+[13]
+File: image_eps/Binary_Image/cloth/45_orig.eps Graphic file (type eps)
+ <image_eps/Binary_Image/cloth/45_orig.eps>
+File: image_eps/Binary_Image/cloth/45_hyp.eps Graphic file (type eps)
+
+<image_eps/Binary_Image/cloth/45_hyp.eps>
+File: image_eps/Binary_Image/cloth/45_interpol.eps Graphic file (type eps)
+
+<image_eps/Binary_Image/cloth/45_interpol.eps>
+File: image_eps/Binary_Image/cloth/shadow_dist_col.eps Graphic file (type eps)
+
+<image_eps/Binary_Image/cloth/shadow_dist_col.eps>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[14]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15]
+File: image_eps/global/cloth/crop_theta=30_phi=105_Orig.eps Graphic file (type 
+eps)
+
+<image_eps/global/cloth/crop_theta=30_phi=105_Orig.eps>
+File: image_eps/global/cloth/crop_theta=30_phi=105_gauss.eps Graphic file (type
+ eps)
+
+<image_eps/global/cloth/crop_theta=30_phi=105_gauss.eps>
+File: image_eps/global/cloth/crop_theta=30_phi=105_PTM.eps Graphic file (type e
+ps)
+
+<image_eps/global/cloth/crop_theta=30_phi=105_PTM.eps>
+File: image_eps/global/cloth/crop_theta=30_phi=105_parabola.eps Graphic file (t
+ype eps)
+
+<image_eps/global/cloth/crop_theta=30_phi=105_parabola.eps> [16]
+
+LaTeX Warning: Citation `B6' on page 17 undefined on input line 604.
+
+[17]
+File: image_eps/global/cloth/574_236_orig.eps Graphic file (type eps)
+ <image_eps/global/cloth/574_236_orig.eps>
+File: image_eps/global/cloth/574_236_gauss.eps Graphic file (type eps)
+
+<image_eps/global/cloth/574_236_gauss.eps>
+File: image_eps/global/cloth/574_236_PTM.eps Graphic file (type eps)
+
+<image_eps/global/cloth/574_236_PTM.eps>
+File: image_eps/global/cloth/574_236_parabola.eps Graphic file (type eps)
+
+<image_eps/global/cloth/574_236_parabola.eps>
+
+LaTeX Warning: Reference `fig:17' on page 18 undefined on input line 675.
+
+
+LaTeX Warning: Citation `B4' on page 18 undefined on input line 682.
+
+[18] [19]
+File: image_eps/boxplot/plot1.eps Graphic file (type eps)
+ <image_eps/boxplot/plot1.eps>
+File: image_eps/boxplot/sponge2.eps Graphic file (type eps)
+ <image_eps/boxplot/sponge2.eps>
+File: image_eps/Data_image/sand/crop_30_orig.eps Graphic file (type eps)
+
+<image_eps/Data_image/sand/crop_30_orig.eps>
+File: image_eps/Data_image/sand/crop_30_inter2.eps Graphic file (type eps)
+
+<image_eps/Data_image/sand/crop_30_inter2.eps>
+File: image_eps/Data_image/sand/crop_30_PTM.eps Graphic file (type eps)
+
+<image_eps/Data_image/sand/crop_30_PTM.eps>
+File: image_eps/4.eps Graphic file (type eps)
+ <image_eps/4.eps>
+File: image_eps/5.eps Graphic file (type eps)
+
+<image_eps/5.eps>
+File: image_eps/6.eps Graphic file (type eps)
+ <image_eps/6.eps>
+File: image_eps/Data_image/granite2/crop_270_orig.eps Graphic file (type eps)
+
+<image_eps/Data_image/granite2/crop_270_orig.eps>
+File: image_eps/Data_image/granite2/crop_270_inter_new.eps Graphic file (type e
+ps)
+
+<image_eps/Data_image/granite2/crop_270_inter_new.eps>
+File: image_eps/Data_image/granite2/crop_270_PTM2.eps Graphic file (type eps)
+
+<image_eps/Data_image/granite2/crop_270_PTM2.eps>
+File: image_eps/Data_image/cloth_eps/1_45_orig.eps Graphic file (type eps)
+
+<image_eps/Data_image/cloth_eps/1_45_orig.eps>
+File: image_eps/Data_image/cloth_eps/1_45_our.eps Graphic file (type eps)
+
+<image_eps/Data_image/cloth_eps/1_45_our.eps>
+File: image_eps/Data_image/cloth_eps/1_45_PTM.eps Graphic file (type eps)
+
+<image_eps/Data_image/cloth_eps/1_45_PTM.eps>
+File: image_eps/Data_image/granite1/crop_286_orig.eps Graphic file (type eps)
+
+<image_eps/Data_image/granite1/crop_286_orig.eps>
+File: image_eps/Data_image/granite1/crop_286_inter.eps Graphic file (type eps)
+
+<image_eps/Data_image/granite1/crop_286_inter.eps>
+File: image_eps/Data_image/granite1/crop_286_PTM.eps Graphic file (type eps)
+
+<image_eps/Data_image/granite1/crop_286_PTM.eps> [20]
+
+LaTeX Warning: Citation `A10' on page 21 undefined on input line 863.
+
+File: image_eps/multiLight/sponge2_bottom+top.eps Graphic file (type eps)
+<image_eps/multiLight/sponge2_bottom+top.eps>
+File: image_eps/multiLight/sponge2_2PTM_bottom+top.eps Graphic file (type eps)
+
+<image_eps/multiLight/sponge2_2PTM_bottom+top.eps>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) [21] [22]
+{\it Chapter} 4.
+(./chapter4.tex
+File: chap4/res_4/try.eps Graphic file (type eps)
+ <chap4/res_4/try.eps>
+File: chap4/res_1/orig.eps Graphic file (type eps)
+ <chap4/res_1/orig.eps>
+File: chap4/res_2/orig.eps Graphic file (type eps)
+
+<chap4/res_2/orig.eps>
+File: chap4/res_2/direct.eps Graphic file (type eps)
+ <chap4/res_2/direct.eps>
+File: chap4/res_2/global.eps Graphic file (type eps)
+ <chap4/res_2/global.eps>
+File: chap4/res_1/orig.eps Graphic file (type eps)
+
+<chap4/res_1/orig.eps>
+File: chap4/res_1/ica_1.eps Graphic file (type eps)
+ <chap4/res_1/ica_1.eps>
+File: chap4/res_1/ica_2.eps Graphic file (type eps)
+ <chap4/res_1/ica_2.eps>
+File: chap4/res_3/orig.eps Graphic file (type eps)
+
+<chap4/res_3/orig.eps>
+File: chap4/res_3/kit.eps Graphic file (type eps)
+ <chap4/res_3/kit.eps>
+File: chap4/res_3/otsu.eps Graphic file (type eps)
+ <chap4/res_3/otsu.eps>
+File: chap4/res_3/nib.eps Graphic file (type eps)
+
+<chap4/res_3/nib.eps>
+File: chap4/res_3/sau.eps Graphic file (type eps)
+ <chap4/res_3/sau.eps>
+File: chap4/res_3/out_res_5.eps Graphic file (type eps)
+ <chap4/res_3/out_res_5.eps>
+[23
+
+]
+File: results/res_3/1.eps Graphic file (type eps)
+ <results/res_3/1.eps>
+File: results/res_3/2.eps Graphic file (type eps)
+ <results/res_3/2.eps>
+File: results/res_3/3.eps Graphic file (type eps)
+ <results/res_3/3.eps>
+File: results/res_3/4.eps Graphic file (type eps)
+
+<results/res_3/4.eps>
+File: results/res_3/5.eps Graphic file (type eps)
+ <results/res_3/5.eps>
+File: results/res_3/6.eps Graphic file (type eps)
+ <results/res_3/6.eps>
+
+LaTeX Warning: Citation `A16' on page 24 undefined on input line 153.
+
+File: results/res_5/1.eps Graphic file (type eps)
+<results/res_5/1.eps>
+File: results/res_5/2.eps Graphic file (type eps)
+ <results/res_5/2.eps>
+File: results/res_5/3.eps Graphic file (type eps)
+ <results/res_5/3.eps>
+File: results/res_5/4.eps Graphic file (type eps)
+
+<results/res_5/4.eps>
+File: results/res_5/5.eps Graphic file (type eps)
+ <results/res_5/5.eps>
+File: results/res_5/6.eps Graphic file (type eps)
+ <results/res_5/6.eps>
+File: results/res_5/7.eps Graphic file (type eps)
+
+<results/res_5/7.eps>
+File: results/res_5/8.eps Graphic file (type eps)
+ <results/res_5/8.eps>
+File: results/res_5/9.eps Graphic file (type eps)
+ <results/res_5/9.eps>
+Underfull \vbox (badness 2393) has occurred while \output is active []
+
+ [24]
+[25]
+File: results/framework.eps Graphic file (type eps)
+ <results/framework.eps>
+File: results/IC/orig.eps Graphic file (type eps)
+ <results/IC/orig.eps>
+File: results/IC/R.eps Graphic file (type eps)
+ <results/IC/R.eps>
+File: results/IC/14_1.eps Graphic file (type eps)
+
+<results/IC/14_1.eps>
+File: results/IC/14_1_binary.eps Graphic file (type eps)
+ <results/IC/14_1_binary.eps>
+File: results/IC/G.eps Graphic file (type eps)
+ <results/IC/G.eps>
+File: results/IC/14_2.eps Graphic file (type eps)
+
+<results/IC/14_2.eps>
+File: results/IC/14_2_binary.eps Graphic file (type eps)
+ <results/IC/14_2_binary.eps>
+File: results/IC/B.eps Graphic file (type eps)
+ <results/IC/B.eps>
+File: results/IC/14.eps Graphic file (type eps)
+
+<results/IC/14.eps>
+File: results/IC/binary.eps Graphic file (type eps)
+ <results/IC/binary.eps>
+
+LaTeX Warning: Citation `A10' on page 26 undefined on input line 435.
+
+[26]
+Underfull \vbox (badness 2799) has occurred while \output is active []
+
+ [27]
+File: results/res_4/orig.eps Graphic file (type eps)
+
+<results/res_4/orig.eps>
+File: results/res_4/ic.eps Graphic file (type eps)
+ <results/res_4/ic.eps>
+File: results/res_4/otsu.eps Graphic file (type eps)
+ <results/res_4/otsu.eps>
+File: results/res_4/nib.eps Graphic file (type eps)
+
+<results/res_4/nib.eps>
+File: results/res_2/1/orig.eps Graphic file (type eps)
+ <results/res_2/1/orig.eps>
+File: results/res_2/1/mrf.eps Graphic file (type eps)
+ <results/res_2/1/mrf.eps>
+File: results/res_2/1/kit.eps Graphic file (type eps)
+
+<results/res_2/1/kit.eps>
+File: results/res_2/1/otsu.eps Graphic file (type eps)
+ <results/res_2/1/otsu.eps>
+File: results/res_2/1/nib.eps Graphic file (type eps)
+ <results/res_2/1/nib.eps>
+File: results/res_2/1/sau.eps Graphic file (type eps)
+
+<results/res_2/1/sau.eps>
+File: results/res_2/1/res.eps Graphic file (type eps)
+ <results/res_2/1/res.eps>
+File: results/res_2/2/orig.eps Graphic file (type eps)
+ <results/res_2/2/orig.eps>
+File: results/res_2/2/mrf.eps Graphic file (type eps)
+
+<results/res_2/2/mrf.eps>
+File: results/res_2/2/kit.eps Graphic file (type eps)
+ <results/res_2/2/kit.eps>
+File: results/res_2/2/otsu.eps Graphic file (type eps)
+ <results/res_2/2/otsu.eps>
+File: results/res_2/2/nib.eps Graphic file (type eps)
+
+<results/res_2/2/nib.eps>
+File: results/res_2/2/sau.eps Graphic file (type eps)
+ <results/res_2/2/sau.eps>
+File: results/res_2/2/res.eps Graphic file (type eps)
+ <results/res_2/2/res.eps>
+File: results/res_2/3/orig.eps Graphic file (type eps)
+
+<results/res_2/3/orig.eps>
+File: results/res_2/3/mrf.eps Graphic file (type eps)
+ <results/res_2/3/mrf.eps>
+File: results/res_2/3/kit.eps Graphic file (type eps)
+ <results/res_2/3/kit.eps>
+File: results/res_2/3/otsu.eps Graphic file (type eps)
+
+<results/res_2/3/otsu.eps>
+File: results/res_2/3/nib.eps Graphic file (type eps)
+ <results/res_2/3/nib.eps>
+File: results/res_2/3/sau.eps Graphic file (type eps)
+ <results/res_2/3/sau.eps>
+File: results/res_2/3/res.eps Graphic file (type eps)
+
+<results/res_2/3/res.eps>
+File: results/res_2/12/orig.eps Graphic file (type eps)
+ <results/res_2/12/orig.eps>
+File: results/res_2/12/mrf.eps Graphic file (type eps)
+
+<results/res_2/12/mrf.eps>
+File: results/res_2/12/kit.eps Graphic file (type eps)
+ <results/res_2/12/kit.eps>
+File: results/res_2/12/otsu.eps Graphic file (type eps)
+
+<results/res_2/12/otsu.eps>
+File: results/res_2/12/nib.eps Graphic file (type eps)
+ <results/res_2/12/nib.eps>
+File: results/res_2/12/sau.eps Graphic file (type eps)
+
+<results/res_2/12/sau.eps>
+File: results/res_2/12/res.eps Graphic file (type eps)
+ <results/res_2/12/res.eps>
+File: results/res_2/5/orig.eps Graphic file (type eps)
+
+<results/res_2/5/orig.eps>
+File: results/res_2/5/mrf.eps Graphic file (type eps)
+ <results/res_2/5/mrf.eps>
+File: results/res_2/5/kit.eps Graphic file (type eps)
+ <results/res_2/5/kit.eps>
+File: results/res_2/5/otsu.eps Graphic file (type eps)
+
+<results/res_2/5/otsu.eps>
+File: results/res_2/5/nib.eps Graphic file (type eps)
+ <results/res_2/5/nib.eps>
+File: results/res_2/5/sau.eps Graphic file (type eps)
+ <results/res_2/5/sau.eps>
+File: results/res_2/5/res.eps Graphic file (type eps)
+
+<results/res_2/5/res.eps>
+File: results/res_2/6/orig.eps Graphic file (type eps)
+ <results/res_2/6/orig.eps>
+File: results/res_2/6/mrf.eps Graphic file (type eps)
+ <results/res_2/6/mrf.eps>
+File: results/res_2/6/kit.eps Graphic file (type eps)
+
+<results/res_2/6/kit.eps>
+File: results/res_2/6/otsu.eps Graphic file (type eps)
+ <results/res_2/6/otsu.eps>
+File: results/res_2/6/nib.eps Graphic file (type eps)
+ <results/res_2/6/nib.eps>
+File: results/res_2/6/sau.eps Graphic file (type eps)
+
+<results/res_2/6/sau.eps>
+File: results/res_2/6/res.eps Graphic file (type eps)
+ <results/res_2/6/res.eps>
+File: results/res_2/7/orig.eps Graphic file (type eps)
+ <results/res_2/7/orig.eps>
+File: results/res_2/7/mrf.eps Graphic file (type eps)
+
+<results/res_2/7/mrf.eps>
+File: results/res_2/7/kit.eps Graphic file (type eps)
+ <results/res_2/7/kit.eps>
+File: results/res_2/7/otsu.eps Graphic file (type eps)
+ <results/res_2/7/otsu.eps>
+File: results/res_2/7/nib.eps Graphic file (type eps)
+
+<results/res_2/7/nib.eps>
+File: results/res_2/7/sau.eps Graphic file (type eps)
+ <results/res_2/7/sau.eps>
+File: results/res_2/7/res.eps Graphic file (type eps)
+ <results/res_2/7/res.eps>
+File: results/res_2/8/orig.eps Graphic file (type eps)
+
+<results/res_2/8/orig.eps>
+File: results/res_2/8/mrf.eps Graphic file (type eps)
+ <results/res_2/8/mrf.eps>
+File: results/res_2/8/kit.eps Graphic file (type eps)
+ <results/res_2/8/kit.eps>
+File: results/res_2/8/otsu.eps Graphic file (type eps)
+
+<results/res_2/8/otsu.eps>
+File: results/res_2/8/nib.eps Graphic file (type eps)
+ <results/res_2/8/nib.eps>
+File: results/res_2/8/sau.eps Graphic file (type eps)
+ <results/res_2/8/sau.eps>
+File: results/res_2/8/res.eps Graphic file (type eps)
+
+<results/res_2/8/res.eps>
+File: results/res_2/9/orig.eps Graphic file (type eps)
+ <results/res_2/9/orig.eps>
+File: results/res_2/9/mrf.eps Graphic file (type eps)
+ <results/res_2/9/mrf.eps>
+File: results/res_2/9/kit.eps Graphic file (type eps)
+
+<results/res_2/9/kit.eps>
+File: results/res_2/9/otsu.eps Graphic file (type eps)
+ <results/res_2/9/otsu.eps>
+File: results/res_2/9/nib.eps Graphic file (type eps)
+ <results/res_2/9/nib.eps>
+File: results/res_2/9/sau.eps Graphic file (type eps)
+
+<results/res_2/9/sau.eps>
+File: results/res_2/9/res.eps Graphic file (type eps)
+ <results/res_2/9/res.eps>
+File: results/res_2/10/orig.eps Graphic file (type eps)
+
+<results/res_2/10/orig.eps>
+File: results/res_2/10/mrf.eps Graphic file (type eps)
+ <results/res_2/10/mrf.eps>
+File: results/res_2/10/kit.eps Graphic file (type eps)
+
+<results/res_2/10/kit.eps>
+File: results/res_2/10/otsu.eps Graphic file (type eps)
+ <results/res_2/10/otsu.eps>
+File: results/res_2/10/nib.eps Graphic file (type eps)
+
+<results/res_2/10/nib.eps>
+File: results/res_2/10/sau.eps Graphic file (type eps)
+ <results/res_2/10/sau.eps>
+File: results/res_2/10/res.eps Graphic file (type eps)
+
+<results/res_2/10/res.eps>
+File: results/res_2/11/orig.eps Graphic file (type eps)
+ <results/res_2/11/orig.eps>
+File: results/res_2/11/mrf.eps Graphic file (type eps)
+
+<results/res_2/11/mrf.eps>
+File: results/res_2/11/kit.eps Graphic file (type eps)
+ <results/res_2/11/kit.eps>
+File: results/res_2/11/otsu.eps Graphic file (type eps)
+
+<results/res_2/11/otsu.eps>
+File: results/res_2/11/otsu.eps Graphic file (type eps)
+ <results/res_2/11/otsu.eps>
+File: results/res_2/11/nib.eps Graphic file (type eps)
+
+<results/res_2/11/nib.eps>
+File: results/res_2/11/sau.eps Graphic file (type eps)
+ <results/res_2/11/sau.eps>
+File: results/res_2/11/res.eps Graphic file (type eps)
+
+<results/res_2/11/res.eps>
+File: results/res_7/1.eps Graphic file (type eps)
+ <results/res_7/1.eps>
+File: results/res_7/2.eps Graphic file (type eps)
+ <results/res_7/2.eps>
+File: results/res_7/3.eps Graphic file (type eps)
+
+<results/res_7/3.eps>
+File: results/res_7/4.eps Graphic file (type eps)
+ <results/res_7/4.eps> [28]
+
+LaTeX Warning: Citation `A16' on page 29 undefined on input line 865.
+
+
+LaTeX Warning: Citation `A16' on page 29 undefined on input line 876.
+
+
+LaTeX Warning: Citation `A16' on page 29 undefined on input line 881.
+
+[29]
+
+LaTeX Warning: Citation `A16' on page 30 undefined on input line 896.
+
+
+Underfull \vbox (badness 1953) has occurred while \output is active []
+
+ [30]
+File: results/res_6/1.eps Graphic file (type eps)
+
+<results/res_6/1.eps>
+File: results/res_6/2.eps Graphic file (type eps)
+ <results/res_6/2.eps> [31]) [32] [33] [34]
+{\it Chapter} 5.
+(./conclusion.tex) [35
+
+] (./relatedPapers.tex
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 2.
+) (./sampleThesis.bbl [36
+
+] [37
+
+]
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no ™ in font ptmr7t!
+)
+[38] (./sampleThesis.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2612 strings out of 493849
+ 34760 string characters out of 1152847
+ 99698 words of memory out of 3000000
+ 5684 multiletter control sequences out of 15000+50000
+ 19308 words of font info for 63 fonts, out of 3000000 for 9000
+ 714 hyphenation exceptions out of 8191
+ 32i,18n,25p,550b,370s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on sampleThesis.dvi (49 pages, 139904 bytes).

@@ -1,0 +1,59 @@
+This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
+The top-level auxiliary file: sampleThesis.aux
+The style file: latex8.bst
+Database file #1: sampleBib.bib
+Warning--I didn't find a database entry for "B4"
+Warning--I didn't find a database entry for "B9"
+Warning--I didn't find a database entry for "B7"
+Warning--I didn't find a database entry for "B10"
+Warning--I didn't find a database entry for "B11"
+Warning--I didn't find a database entry for "B17"
+Warning--I didn't find a database entry for "B16"
+Warning--I didn't find a database entry for "B6"
+Warning--I didn't find a database entry for "A10"
+Warning--I didn't find a database entry for "A16"
+Warning--to sort, need author or key in A15
+Warning--empty author in A15
+Warning--empty year in A15
+You've used 22 entries,
+            2118 wiz_defined-function locations,
+            666 strings with 6624 characters,
+and the built_in function-call counts, 7633 in all, are:
+= -- 780
+> -- 320
+< -- 6
++ -- 131
+- -- 104
+* -- 510
+:= -- 1245
+add.period$ -- 65
+call.type$ -- 22
+change.case$ -- 118
+chr.to.int$ -- 0
+cite$ -- 25
+duplicate$ -- 296
+empty$ -- 576
+format.name$ -- 104
+if$ -- 1619
+int.to.chr$ -- 0
+int.to.str$ -- 22
+missing$ -- 22
+newline$ -- 112
+num.names$ -- 42
+pop$ -- 95
+preamble$ -- 1
+purify$ -- 96
+quote$ -- 0
+skip$ -- 239
+stack$ -- 0
+substring$ -- 569
+swap$ -- 80
+text.length$ -- 6
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 88
+warning$ -- 3
+while$ -- 75
+width$ -- 24
+write$ -- 238
+(There were 13 warnings)
